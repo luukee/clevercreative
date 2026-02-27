@@ -2,6 +2,8 @@
 
 Lighthouse reports and runbook for [clevercreative.com](https://www.clevercreative.com) (SEO and performance audits).
 
+## [https://luukee.github.io/clevercreative/](clevercreative.com SEO Github Pages)
+
 ## What’s in this repo
 
 - **lighthouse/** – HTML reports and index
