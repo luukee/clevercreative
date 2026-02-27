@@ -24,6 +24,7 @@ To use a different URL list: `./run-all.sh my-urls.txt`
 
 - **Local:** Open `lighthouse/index.html` in a browser.
 - **GitHub Pages:** After enabling Pages in repo Settings, the reports index is at `…/lighthouse/index.html`.
+  - [Pico Framework CSS](https://picocss.com/docs)
 
 ## Fix plan
 
