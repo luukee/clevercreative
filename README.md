@@ -1,6 +1,6 @@
 # clevercreative.com SEO
 
-[Basecamp: Clever Website Optimization](https://3.basecamp.com/5423290/projects/46302916)
+[Basecamp: Clever Website Optimization](https://3.basecamp.com/5423290/projects/46302916) | [Canva Design Docs](https://www.canva.com/design/DAHDMH9xRSI/ZOhvBI2BTwdvGi4Miy2ZFQ/edit?ui=eyJBIjp7fX0) | [TinyPNG](https://tinypng.com/)
 
 Lighthouse reports and runbook for [clevercreative.com](https://www.clevercreative.com) (SEO and performance audits).
 
