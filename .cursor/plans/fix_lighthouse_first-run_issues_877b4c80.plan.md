@@ -104,9 +104,9 @@ isProject: false
 
 ## Checklist
 
-- [x] **1. JavaScript error** — Fix syntax error in Code Injection / code blocks; re-run Lighthouse on home and confirm `errors-in-console` passes
+- **1. JavaScript error** — Fix syntax error in Code Injection / code blocks; re-run Lighthouse on home and confirm `errors-in-console` passes
 - **2. Performance** — After JS fix: fonts, hero/LCP image, image dimensions, trim custom CSS/JS; reduce DOM where possible
-- [x] **3. SEO link text** — Work page: change each “Read More” to descriptive text (or add aria-label); re-run on work page
+- **3. SEO link text** — Work page: change each “Read More” to descriptive text (or add aria-label); re-run on work page
 - **4. Heading order** — Home, fhi-heat, privacy-policy, spi-1, vca-tradeshow, work: fix H1→H2→H3 (no skips); re-run on those URLs
 - **5. Re-run & track** — Run `./run-all.sh` (or single URLs); update reports; confirm improvements on Performance and above audits
 
