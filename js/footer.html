@@ -48,3 +48,34 @@
         }
     };
 </script>
+<script>
+(function() {
+  function labelReadMoreLinks() {
+    var links = document.querySelectorAll('.blog-more-link');
+    links.forEach(function(link) {
+      if (link.getAttribute('aria-label')) return;
+      var card = link.closest('article') || link.closest('.blog-basic-grid--container') || link.closest('.blog-item');
+      if (!card) return;
+      var titleEl = card.querySelector('.blog-title a') || card.querySelector('.blog-basic-grid--title a') || card.querySelector('h2 a') || card.querySelector('[class*="title"] a');
+      var titleText = titleEl ? titleEl.textContent.trim() : 'this project';
+      link.setAttribute('aria-label', 'Read more about ' + titleText);
+      link.textContent = 'Read more about ' + titleText;
+    });
+  }
+  function run() {
+    labelReadMoreLinks();
+    /* run again after a short delay in case grid appears late */
+    setTimeout(labelReadMoreLinks, 500);
+    setTimeout(labelReadMoreLinks, 2000);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', run);
+  } else {
+    run();
+  }
+  window.addEventListener('load', labelReadMoreLinks);
+  /* if links are added by JS after load (e.g. infinite scroll), label them when they appear */
+  var observer = new MutationObserver(function() { labelReadMoreLinks(); });
+  observer.observe(document.body, { childList: true, subtree: true });
+})();
+</script>
