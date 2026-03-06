@@ -1,0 +1,50 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all blog articles
+    var blogItems = document.querySelectorAll('.blog-basic-grid--container');
+
+    blogItems.forEach(function(item) {
+      // Find the image link and title link
+      var imageLink = item.querySelector('.image-wrapper');
+      var titleLink = item.querySelector('.blog-title a');
+      
+      if (imageLink && titleLink) {
+        // Set the title link to match the image link's URL
+        imageLink.href = titleLink.href;
+        // Remove the target="_blank" attribute to prevent opening in a new tab
+        titleLink.removeAttribute('target');
+      }
+    });
+  });
+</script>
+<script src="https://assets.squarewebsites.org/numbered-pagination/pagination.min.js"></script>
+<script>
+    window.paginationPluginConfig = {
+        containers: {
+            '.blog-list,.BlogList,  .view-list .page-section[class*="collection-type-blog-"] div[data-controller],.article-list': { // classnames of containers where we want to have a pagination
+                place: 'append', //or use prepend to place block on top
+                backgroundColor: 'transparent',
+                margin: '3% 0',
+		align: 'center', // align pagination
+                padding: '0',
+                showPrevNext: { //will show next/prev elements
+                    next: 'Next', //next link text
+                    prev: 'Prev' //previous link text
+                },
+                pagesRange: 3, //show 4 first and 4 last pages
+                pagesAround: 2, //show links around active page
+                pageSize: 64,
+                items: {
+                    style: 'square', //square, pillow
+                    width: '32px', //navigation item width
+                    borderWidth: '2px', // border width, set to 0 if no need borders
+                    margin: '20px', //navigation items margin
+                    backgroundColor: '#fff', //default background color
+                    activeBackgroundColor: '#555', //active item background color
+                    color: '#000', // default items text color
+                    activeColor: '#fff' //active items text color
+                }
+            }
+        }
+    };
+</script>
