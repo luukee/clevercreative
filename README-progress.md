@@ -1,5 +1,7 @@
 # Progress log
 
+[Basecamp: Clever Website Optimization](https://3.basecamp.com/5423290/projects/46302916)
+
 ## 2026-03-06 (Friday)
 
 **From today’s commits:**

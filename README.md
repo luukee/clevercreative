@@ -1,5 +1,7 @@
 # clevercreative.com SEO
 
+[Basecamp: Clever Website Optimization](https://3.basecamp.com/5423290/projects/46302916)
+
 Lighthouse reports and runbook for [clevercreative.com](https://www.clevercreative.com) (SEO and performance audits).
 
 ## [clevercreative.com SEO Github Pages](https://luukee.github.io/clevercreative/)
