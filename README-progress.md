@@ -13,3 +13,6 @@
 
 - **DC Comics** ([/dc-comics](https://www.clevercreative.com/dc-comics)): SEO title and meta description; hero image sizing and filenaming; social images 1200×630.
 - **Netflix 2023** ([/netflix-2023](https://www.clevercreative.com/netflix-2023)): SEO title and meta description; hero image sizing and filenaming; social images 1200×630.
+
+- About page Start the conversation button convert into a form lightbox button.
+- Footer Contact Us button convert into a form lightbox button.
