@@ -18,3 +18,4 @@
 - Footer Contact Us button convert into a form lightbox button.
 - About Page seo title: About Us | Meet Our Los Angeles Design Team, description: Clever Creative is a Los Angeles-based branding agency. Meet our team of strategists and designers dedicated to building impactful brand experiences.
 - Contact Page seo title: Contact Us | Start Your Brand Project, description: Ready to elevate your brand? Contact Clever Creative in Los Angeles. Let's collaborate on your next brand strategy, packaging, or design project.
+- top nav dropdown link width 100% and hover color
