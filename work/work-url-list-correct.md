@@ -105,3 +105,49 @@
 **17. /jonathan-louis**
 * **SEO Title:** Jonathan Louis | Furniture | Brand Strategy Agency *(50 chars)*
 * **Meta Description:** See how Clever Creative developed a premium brand strategy and visual identity for Jonathan Louis furniture.
+
+### 📝 To-Do List: Implement Batch 3 (Creative Design Agency)
+
+**1. /fhi-heat**
+* **SEO Title:** FHI Heat | Beauty Branding | Creative Design Agency *(51 chars)*
+* **Meta Description:** View our bespoke beauty branding and visual identity for FHI Heat. Clever Creative is a high-end creative design agency elevating lifestyle brands.
+
+**2. /bonfire**
+* **SEO Title:** Bonfire | Brand Identity | Creative Design Agency *(49 chars)*
+* **Meta Description:** Explore our strategic brand identity work for Bonfire Visuals. Partner with our award-winning creative design agency to elevate your brand presence.
+
+**3. /hudson-valley-distillers**
+* **SEO Title:** Hudson Valley | Spirits | Creative Design Agency *(48 chars)*
+* **Meta Description:** Discover our premium beverage branding and packaging design for Hudson Valley Distillers. Clever Creative is a bespoke creative design agency.
+
+**4. /xpel**
+* **SEO Title:** XPEL | Auto Brand Design | Creative Design Agency *(49 chars)*
+* **Meta Description:** See how our strategic creative design agency executed a high-end brand design and visual identity refresh for the XPEL automotive brand.
+
+**5. /within**
+* **SEO Title:** With/In | Skincare Branding | Creative Design Agency *(52 chars)*
+* **Meta Description:** View our bespoke food-meets-skincare branding for With/In. Clever Creative is an award-winning creative design agency for the wellness industry.
+
+**6. /don-cesar**
+* **SEO Title:** The Don CeSar | Hospitality | Creative Design Agency *(52 chars)*
+* **Meta Description:** Explore our luxury hospitality branding for The Don CeSar. Partner with our premium creative design agency to transform your boutique hotel.
+
+**7. /spi**
+* **SEO Title:** SPI | Corporate Branding | Creative Design Agency *(49 chars)*
+* **Meta Description:** Discover our strategic corporate branding and visual identity work for SPI. Clever Creative is a top-tier creative design agency.
+
+**8. /vegd**
+* **SEO Title:** Veg'd | Restaurant Branding | Creative Design Agency *(52 chars)*
+* **Meta Description:** See how our premium creative design agency developed a fresh visual identity and bespoke restaurant branding for Veg'd.
+
+**9. /fire-hen**
+* **SEO Title:** Fire Hen | Food & Beverage | Creative Design Agency *(51 chars)*
+* **Meta Description:** View our custom visual identity and brand design for Fire Hen. Clever Creative is a strategic creative design agency for food and beverage.
+
+**10. /brightside-california-kitchen**
+* **SEO Title:** Brightside | Dining Design | Creative Design Agency *(51 chars)*
+* **Meta Description:** Explore our custom restaurant branding and visual identity for Brightside California Kitchen. We are an award-winning creative design agency.
+
+**11. /tidl**
+* **SEO Title:** Tidl | Wellness Branding | Creative Design Agency *(49 chars)*
+* **Meta Description:** Discover our premium sports wellness branding and packaging design for Tidl. Partner with our high-end creative design agency.
